@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @senolsn
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning C# and JavaScript
 
 
