@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @senolsn
-- 👀 I’m interested in Web 3.0
-- 🌱 I’m currently learning C# and JavaScript
+### Hi there 👋
+I'm Şenol from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.
+You can check out my LinkedIn at https://www.linkedin.com/in/senolsen/
 
-
-<!---
-senolsn/senolsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=senolsn)](https://github.com/anuraghazra/github-readme-stats)
