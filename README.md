@@ -1,5 +1,5 @@
 <h1 align="center">🤖 Welcome to My Github Profile 🤖</h1>
-<h3 align="center">👨🏻‍💻 I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.</h3>Cancel changes
+<h3 align="center">👨🏻‍💻 I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.</h3>
 
 ![My Portfolio](https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
 
