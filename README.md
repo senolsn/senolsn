@@ -3,7 +3,6 @@
 ![My Portfolio](https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
