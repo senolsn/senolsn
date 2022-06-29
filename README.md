@@ -1,9 +1,9 @@
 <h1 align="center">🤖 Welcome to My Github Profile 🤖</h1>
-<h3 align="center">👨🏻‍💻 I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.</h3>
+<h3 align="center">👨🏻‍💻 I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.</h3>Cancel changes
 
 ![My Portfolio](https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">✨Languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
