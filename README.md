@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Şenol</h1>
 <h3 align="center">I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript and React.</h3>
-(https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
+![My Portfolio](https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
