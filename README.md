@@ -21,5 +21,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/senolsen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deneme" height="30" width="40" /></a>
 <a href="https://instagram.com/senols16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deneme" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/senoltr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="@deneme" height="30" width="40" style="border-radius:50%" /></a>
+<a href="https://www.hackerrank.com/senoltr" target="blank" style="border-radius:50%"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="@deneme" height="30" width="40" /></a>
 </p>
