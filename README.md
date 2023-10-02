@@ -6,7 +6,6 @@
 <h3 align="center">✨ Languages and Tools ✨</h3>
 <p align="center">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/java" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b5a4579e36f5e9df6020f467fb0d3aca745c764749c6a97d2a07ba5773fbee4f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3232362f3232363737372e706e67" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="NodeJS" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="40" height="40"/> </a>
