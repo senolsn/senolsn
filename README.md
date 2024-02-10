@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Welcome to My Github Profile 🤖</h1>
 <h3 align="center">👨🏻‍💻 I do content on Design and Development. I really enjoy learning languages and frameworks like C#, Javascript, React & NextJS and Angular.</h3>
 
-![My Portfolio](https://raw.githubusercontent.com/senolsn/senolsn/main/ReadmeBanner.png)
+![My Portfolio]()
 
 <h3 align="center">✨ Languages and Tools ✨</h3>
 <p align="center">
